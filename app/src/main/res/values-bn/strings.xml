@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageClassTask</string>
+
+
+    <string name="address">
+ঠিকানা</string>
+    <string name="mobile_number">
+মোবাইল নম্বর</string>
+    <string name="last_name">নামের শেষাংশ</string>
+    <string name="first_name">নামের প্রথম অংশ</string>
+</resources>
